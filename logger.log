@@ -1,0 +1,75 @@
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:Couldn't find 'spam'
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:Couldn't find 'spam'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode = 'r'
+DEBUG:root:Got here
+INFO:root:Start VT check to reduce indicators
+INFO:root:Start VT check to reduce indicators
+INFO:root:Level 1 VT check
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:2020-09-24 06:58:07,062:Start VT check to reduce indicators
+INFO:2020-09-24 06:58:07,064:Level 1 VT check
+INFO:2020-09-24 06:58:07,064:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-24 06:58:07,064:Using proactor: IocpProactor
+INFO:2020-09-24 06:58:25,961:number of files found: 298
+INFO:2020-09-24 06:58:25,961:percentage of malicious hits: 100.0%
+INFO:2020-09-24 06:58:26,280:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe ":
+INFO:2020-09-24 06:58:33,922:number of files found: 149
+INFO:2020-09-24 06:58:33,922:percentage of malicious hits: 100.0%
+INFO:2020-09-24 06:58:33,927:malicious stats for type:peexe behavior:"shimeng.dll":
+INFO:2020-09-24 06:58:48,802:indicator :shimeng.dll - was found benign
+INFO:2020-09-24 06:58:48,802:less than 98 % of the files found malicious
+INFO:2020-09-24 06:58:48,803:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-24 06:58:57,184:number of files found: 298
+INFO:2020-09-24 06:58:57,185:percentage of malicious hits: 100.0%
+INFO:2020-09-24 06:58:57,194:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-24 06:59:11,061:indicator :esent.dll - was found benign
+INFO:2020-09-24 06:59:11,061:less than 98 % of the files found malicious
+INFO:2020-09-24 06:59:11,062:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-24 06:59:26,966:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign
+INFO:2020-09-24 06:59:26,966:less than 98 % of the files found malicious
+INFO:2020-09-24 06:59:26,967:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-24 06:59:40,839:indicator :msxml6.dll - was found benign
+INFO:2020-09-24 06:59:40,839:less than 98 % of the files found malicious
+INFO:2020-09-24 06:59:40,841:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-24 06:59:44,999:number of files found: 45
+INFO:2020-09-24 06:59:44,999:percentage of malicious hits: 100.0%
+INFO:2020-09-24 06:59:45,003:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-24 06:59:46,516:indicator :C:\Windows\System32\ellighixoqdjz - was found benign
+INFO:2020-09-24 06:59:46,516:no results on vt from the last 3 months
+INFO:2020-09-24 06:59:46,518:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-24 06:59:53,514:number of files found: 298
+INFO:2020-09-24 06:59:53,514:percentage of malicious hits: 100.0%
+INFO:2020-09-24 06:59:53,521:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-24 07:00:15,668:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-24 07:00:15,668:less than 98 % of the files found malicious
+INFO:2020-09-24 07:00:15,669:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-24 07:01:05,839:number of files found: 298
+INFO:2020-09-24 07:01:05,839:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:05,845:Level 2 VT check
+INFO:2020-09-24 07:01:05,846:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-24 07:01:16,085:number of files found: 298
+INFO:2020-09-24 07:01:16,085:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:16,093:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-24 07:01:25,352:number of files found: 298
+INFO:2020-09-24 07:01:25,352:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:25,358:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-24 07:01:33,953:number of files found: 298
+INFO:2020-09-24 07:01:33,966:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:33,973:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-24 07:01:44,437:number of files found: 298
+INFO:2020-09-24 07:01:44,437:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:44,589:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-24 07:01:50,719:number of files found: 45
+INFO:2020-09-24 07:01:50,719:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:50,721:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-24 07:01:54,222:number of files found: 45
+INFO:2020-09-24 07:01:54,222:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:01:54,223:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-24 07:02:02,856:number of files found: 298
+INFO:2020-09-24 07:02:02,856:percentage of malicious hits: 100.0%
+INFO:2020-09-24 07:02:02,864:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-24 07:02:14,265:number of files found: 298
+INFO:2020-09-24 07:02:14,265:percentage of malicious hits: 100.0%
