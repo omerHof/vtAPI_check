@@ -1,432 +1,199 @@
 {
     "Level_1": {
-        "command_line": [
-            "C:\\Users\\Administrator\\AppData\\Local\\Temp\\koekuky.exe",
-            "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\koekuky.exe\" "
-        ],
-        "dll_loaded": [
-            "asxml6.dll"
-        ],
-        "file_created": [
-            "C:\\Users\\Administrator\\AppData\\Local\\Temp\\koekuky.exe"
-        ],
-        "file_delete_failed": [
-            "C:\\Users\\Administrator\\AppData\\Local\\Temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"
-        ],
-        "file_failed": [
-            "ellighixoqdjz"
-        ],
-        "file_opened": [
-            "koekuky.exe"
-        ],
-        "file_read": [
-            "koekuky.exe"
-        ],
-        "file_written": [
-            "C:\\Users\\Administrator\\AppData\\Local\\Temp\\koekuky.exe"
-        ],
-        "mutex": [
-            "Yd9dH99P"
-        ],
-        "section_failed": [
-            "asxml6.dll"
+        "regkey_failed": [
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\NativeImagesIndex\\v2.0.50727_32\\NI\\1d0e73eb\\1cb4ac38",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\NativeImagesIndex\\v2.0.50727_32\\NI\\1d0e73eb\\2d08b1b5"
         ]
-    },
-    "Level_2": {
-        "command_line": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe\" ": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe\" ": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_created": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_delete_failed": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_failed": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\ellighixoqdjz": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\ellighixoqdjz": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_opened": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_read": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        },
-        "file_written": {
-            ".*\\\\appdata\\\\local\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "Win7"
-            ],
-            ".*\\\\temp\\\\koekuky.exe": [
-                "Win10_64b",
-                "WinXP",
-                "Win7"
-            ]
-        }
     },
     "Level_3": {
         "Win10_64b": {
-            "command_line": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\koekuky.exe",
-                "C:\\Windows\\System32\\InstallAgent.exe -Embedding",
-                "\"C:\\Users\\DANNYW~1\\AppData\\Local\\Temp\\koekuky.exe\" "
-            ],
-            "directory_failed": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Microsoft\\InstallAgent\\Checkpoints"
-            ],
-            "dll_loaded": [
-                "C:\\Windows\\System32\\VEStoreEventHandlers.dll",
-                "C:\\Windows\\SysWOW64\\\\Windows.StateRepository.dll",
-                "C:\\Windows\\System32\\wpnapps.dll",
-                "C:\\Windows\\System32\\EAMProgressHandler.dll",
-                "C:\\Windows\\System32\\StoreAgent.dll"
-            ],
-            "file_created": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\koekuky.exe"
-            ],
-            "file_delete_failed": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"
+            "directory_created": [
+                "C:\\Users\\DannyWhight\\AppData\\Local\\Microsoft\\CLR_v2.0_32\\UsageLogs",
+                "C:\\Users\\DannyWhight\\AppData\\Local\\Microsoft\\CLR_v2.0_32"
             ],
             "file_failed": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\ellighixoqdjz"
+                "C:\\Users\\DannyWhight\\AppData\\Local\\Microsoft\\CLR_v2.0_32",
+                "C:\\Users\\DannyWhight\\Desktop\\en-US\\Lazarus.resources.dll",
+                "C:\\Users\\DannyWhight\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Users\\DannyWhight\\Desktop\\en\\Lazarus.resources.dll",
+                "C:\\Users\\DannyWhight\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Users\\DannyWhight\\Desktop\\en\\Lazarus.resources.exe",
+                "C:\\Users\\DannyWhight\\Desktop\\en-US\\Lazarus.resources.exe",
+                "C:\\Users\\DannyWhight\\AppData\\Local\\Microsoft\\CLR_v2.0_32\\UsageLogs",
+                "C:\\Users\\DannyWhight\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Users\\DannyWhight\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.dll"
             ],
-            "file_opened": [
-                "C:\\Windows\\System32\\msvcp110_win.dll",
-                "C:\\Windows\\System32\\VEStoreEventHandlers.dll",
-                "C:\\Windows\\System32\\rmclient.dll",
-                "C:\\Windows\\System32\\wpnapps.dll",
-                "C:\\Windows\\System32\\EAMProgressHandler.dll",
-                "C:\\Windows\\System32\\StoreAgent.dll",
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\koekuky.exe",
-                "C:\\Windows\\System32\\en-US\\InstallAgent.exe.mui"
-            ],
-            "file_read": [
-                "C:\\Windows\\System32\\msvcp110_win.dll",
-                "C:\\Windows\\System32\\VEStoreEventHandlers.dll",
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\koekuky.exe",
-                "C:\\Windows\\System32\\rmclient.dll",
-                "C:\\Windows\\System32\\wpnapps.dll",
-                "C:\\Windows\\System32\\EAMProgressHandler.dll",
-                "C:\\Windows\\System32\\StoreAgent.dll",
-                "C:\\Windows\\System32\\en-US\\InstallAgent.exe.mui"
-            ],
-            "file_written": [
-                "C:\\Users\\DannyWhight\\AppData\\Local\\Temp\\koekuky.exe"
-            ],
-            "mutex": [
-                "Notification serialiazer Mutex"
-            ],
-            "regkey_exists": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers\\EnterpriseModernAppManagement.EAMProgressHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers\\TileDataModel.StoreEventListener"
-            ],
-            "regkey_failed": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\LocalServer",
-                "HKEY_CURRENT_USER\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\TreatAs",
-                "HKEY_CURRENT_USER\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\LocalServer",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\LocalServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\Elevation",
-                "HKEY_CURRENT_USER\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\TreatAs",
-                "HKEY_CURRENT_USER\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\InprocHandler",
-                "HKEY_CURRENT_USER\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InprocHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\TreatAs",
-                "HKEY_CURRENT_USER\\AppID\\{260EB9DE-5CBE-4BFF-A99A-3710AF55BF1E}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InprocHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\InstallAgent.exe",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\CustomAttributes",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\InprocHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\InprocHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\Elevation",
-                "HKEY_CURRENT_USER\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InprocHandler",
-                "HKEY_CURRENT_USER\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\TreatAs",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\TreatAs",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\CustomAttributes",
-                "HKEY_CURRENT_USER\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\TreatAs",
-                "HKEY_CURRENT_USER\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\InprocHandler",
-                "HKEY_CURRENT_USER\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\LocalServer",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\LocalServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\TreatAs",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\InprocHandler",
-                "HKEY_CURRENT_USER\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InprocHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\InprocHandler32",
-                "HKEY_CURRENT_USER\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\TreatAs",
-                "HKEY_CURRENT_USER\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InprocHandler32",
-                "HKEY_CURRENT_USER\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\InprocHandler",
-                "HKEY_CURRENT_USER\\AppID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\CustomAttributes",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\InprocServer32",
-                "HKEY_CURRENT_USER\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\TreatAs",
-                "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers",
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Store",
-                "HKEY_CURRENT_USER\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\TreatAs",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\InprocHandler32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\InprocServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\InprocServer32",
-                "HKEY_CURRENT_USER\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\LocalServer"
-            ],
-            "regkey_opened": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InprocServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager",
-                "HKEY_LOCAL_MACHINE\\Software\\Classes\\AppID\\{260EB9DE-5CBE-4BFF-A99A-3710AF55BF1E}",
-                "HKEY_CURRENT_USER\\CLSID\\{AB3D00BA-F2DD-4DEB-B122-177B161EAD5B}",
-                "HKEY_CURRENT_USER\\Interface\\{EA51DB0C-CE4A-5AA0-8CB1-9681B3D13BFC}",
-                "HKEY_CURRENT_USER\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BD3E41CA-2E87-47A8-8EC0-6F0FE76752AC}\\ProxyStubClsid32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InprocServer32",
-                "HKEY_CURRENT_USER\\CLSID\\{260EB9DE-5CBE-4BFF-A99A-3710AF55BF1E}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{aa038f91-e4ea-4ac6-baf8-5d1a635adb23}\\ProxyStubClsid32",
-                "HKEY_LOCAL_MACHINE\\Software\\Classes\\Unmarshalers\\System\\{00000338-0000-0000-C000-000000000046}",
-                "HKEY_CURRENT_USER\\Interface\\{619296CA-E645-4CB9-B016-0621969BC303}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{619296ca-e645-4cb9-b016-0621969bc303}\\ProxyStubClsid32",
-                "HKEY_CURRENT_USER\\Interface\\{AA038F91-E4EA-4AC6-BAF8-5D1A635ADB23}",
-                "HKEY_CURRENT_USER\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{ea51db0c-ce4a-5aa0-8cb1-9681b3d13bfc}\\ProxyStubClsid32",
-                "HKEY_CURRENT_USER\\Interface\\{BD3E41CA-2E87-47A8-8EC0-6F0FE76752AC}",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{93AF7F9C-2F24-4377-BE59-A3A109D0AC64}\\ProxyStubClsid32",
-                "HKEY_CURRENT_USER\\Interface\\{6BBE0FA8-D5FE-54EA-9F81-103889B4D77E}",
-                "HKEY_CURRENT_USER\\Interface\\{93AF7F9C-2F24-4377-BE59-A3A109D0AC64}",
-                "HKEY_CURRENT_USER\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}",
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\AppModel\\Origins",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{6bbe0fa8-d5fe-54ea-9f81-103889b4d77e}\\ProxyStubClsid32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\Configuration"
-            ],
-            "regkey_read": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{BD3E41CA-2E87-47A8-8EC0-6F0FE76752AC}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\Configuration\\ExcludedContentIdsForUpdate",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{aa038f91-e4ea-4ac6-baf8-5d1a635adb23}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4661626C-9F41-40A9-B3F5-5580E80CB347}\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\ActivationType",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\ActivationType",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AppID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\AccessPermission",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\TrustLevel",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\DllPath",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4B6C85F1-A6D9-433A-9789-89EA153626ED}\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\AppModel\\Origins\\NdSj49/Ra+OvXvErhg0P5HU0Pf0U7TtOPp6sJxjLLfY",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\TrustLevel",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InProcServer32\\ThreadingModel",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{93AF7F9C-2F24-4377-BE59-A3A109D0AC64}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\ActivationType",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\Threading",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\Threading",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InProcServer32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\Permissions",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{619296ca-e645-4cb9-b016-0621969bc303}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\DllPath",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InProcServer32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{6bbe0fa8-d5fe-54ea-9f81-103889b4d77e}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\DllPath",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{ea51db0c-ce4a-5aa0-8cb1-9681b3d13bfc}\\ProxyStubClsid32\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\(Default)",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\Threading",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InProcServer32\\ThreadingModel",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AppID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\AuthenticationLevel",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\TrustLevel"
-            ],
-            "regkey_read_failed": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\Permissions",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\ActivateInSharedBroker",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\RemoteServer",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\RemoteServer",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\InProcServer32\\InprocServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\Server",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\ActivateAsUser",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\AppID",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\InstallEventHandlers",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\Configuration\\MaxConcurrentQueueItems",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\RemoteServer",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{95E15D0A-66E6-93D9-C53C-76E6219D3341}\\AppID",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\Server",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\DefinitionFlags",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\InstallAgent\\Configuration\\AutoResumeQueue",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\ActivateInSharedBroker",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\ActivateInSharedBroker",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\Server",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ab3d00ba-f2dd-4deb-b122-177b161ead5b}\\InProcServer32\\InprocServer32",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\Permissions",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\TileDataModel.StoreEventListener\\ActivateAsUser",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\Windows.UI.Notifications.ToastNotificationManager\\ActivateAsUser",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsRuntime\\ActivatableClassId\\EnterpriseModernAppManagement.EAMProgressHandler\\Permissions",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AppID\\{260eb9de-5cbe-4bff-a99a-3710af55bf1e}\\AccessPermission"
-            ],
-            "section_failed": [
-                "wpnapps.dll",
-                "StoreAgent.dll",
-                "EAMProgressHandler.dll",
-                "VEStoreEventHandlers.dll",
-                "msvcp110_win.dll",
-                "RMCLIENT.dll"
+            "section_opened": [
+                "\\Sessions\\1\\Windows\\Theme1991116069",
+                "\\Windows\\Theme131249050"
             ]
         },
         "Win7": {
             "command_line": [
-                "\"C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe\" ",
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe"
+                "\"C:\\Windows\\System32\\ipconfig.exe\""
+            ]
+        },
+        "Win7_64b": {
+            "command_line": [
+                "\"C:\\Program Files (x86)\\Mozilla Firefox\\Firefox.exe\"",
+                "\"C:\\Windows\\SysWOW64\\wuapp.exe\"",
+                "\"C:\\Windows\\SysWOW64\\colorcpl.exe\""
             ],
-            "file_created": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe"
-            ],
-            "file_delete_failed": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"
+            "dll_loaded": [
+                "nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\profiles\\a6lud0hy.default/nssckbi.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "winsqlite3.dll",
+                "vaultcli.dll",
+                "nspr4.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
             ],
             "file_failed": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\ellighixoqdjz"
+                "C:\\Users\\Administrator\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en-US\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\Desktop\\en-US\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\logins.json",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.exe"
             ],
             "file_opened": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe"
+                "C:\\Windows\\SysWOW64\\msvcr100.dll",
+                "C:\\Windows\\SysWOW64\\mlang.dll",
+                "C:\\Windows\\SysWOW64\\winmm.dll",
+                "C:\\Windows\\SysWOW64\\vaultcli.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\secmod.db",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\cert8.db",
+                "C:\\Windows\\SysWOW64\\wsock32.dll",
+                "C:\\Windows\\SysWOW64\\WindowsCodecs.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\key3.db",
+                "C:\\Windows\\SysWOW64\\ntdll.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
             ],
             "file_read": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe"
+                "C:\\Windows\\SysWOW64\\msvcr100.dll",
+                "C:\\Windows\\SysWOW64\\mlang.dll",
+                "C:\\Windows\\SysWOW64\\winmm.dll",
+                "C:\\Windows\\SysWOW64\\vaultcli.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\secmod.db",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\cert8.db",
+                "C:\\Windows\\SysWOW64\\wsock32.dll",
+                "C:\\Windows\\SysWOW64\\WindowsCodecs.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\a6lud0hy.default\\key3.db",
+                "C:\\Windows\\SysWOW64\\ntdll.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
             ],
-            "file_written": [
-                "C:\\Users\\admin\\AppData\\Local\\Temp\\koekuky.exe"
+            "guid": [
+                "{afa0dc11-c313-11d0-831a-00c04fd5ae38}"
             ],
             "regkey_read_failed": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\esent.dll",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\shimeng.dll"
+                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Internet Explorer\\MAIN\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE\\wuapp.exe"
+            ],
+            "section_failed": [
+                "mozglue.dll",
+                "winsqlite3.dll",
+                "nspr4.dll",
+                "nss3.dll"
+            ],
+            "service_started": [
+                "VaultSvc"
             ]
         },
         "Win8.1_64b": {
+            "command_line": [
+                "/c copy \"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data\" \"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\DB1\" /V"
+            ],
             "dll_loaded": [
-                "api-ms-win-core-debug-l1-1-0.dll"
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\profiles\\dber1dk9.default/nssckbi.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "vaultcli.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
+            ],
+            "file_copied": [
+                "['C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Defalt\\Login Data', 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1']"
+            ],
+            "file_created": [
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1"
+            ],
+            "file_exists": [
+                "C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1",
+                "C:\\Windows\\System32\\Login Data",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1-journal",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1-wal"
+            ],
+            "file_failed": [
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en-GB\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1",
+                "C:\\Users\\Administrator\\Desktop\\en-GB\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\Desktop\\en-GB\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Users\\Administrator\\Desktop\\en-GB\\Lazarus.resources.exe",
+                "C:\\Users\\Administrator\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.exe"
+            ],
+            "file_opened": [
+                "C:\\Program Files (x86)\\Mozilla Firefox\\mozglue.dll",
+                "C:\\Windows\\System32\\msvcp120.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\cert8.db",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1",
+                "C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\key3.db",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\secmod.db",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
+            ],
+            "file_read": [
+                "C:\\Program Files (x86)\\Mozilla Firefox\\mozglue.dll",
+                "C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data",
+                "C:\\Windows\\System32\\msvcp120.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\freebl3.dll",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\cert8.db",
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\key3.db",
+                "C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\dber1dk9.default\\secmod.db",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\softokn3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nss3.dll",
+                "C:\\Program Files (x86)\\Mozilla Firefox\\nssdbm3.dll"
+            ],
+            "file_written": [
+                "C:\\Users\\Administrator\\AppData\\Local\\Temp\\DB1"
+            ],
+            "guid": [
+                "{afa0dc11-c313-11d0-831a-00c04fd5ae38}"
+            ],
+            "section_failed": [
+                "mozglue.dll"
             ]
         },
         "WinXP": {
-            "command_line": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\koekuky.exe",
-                "\"C:\\DOCUME~1\\admin\\LOCALS~1\\Temp\\koekuky.exe\" "
-            ],
-            "file_created": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\koekuky.exe"
-            ],
-            "file_delete_failed": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"
+            "dll_loaded": [
+                "C:\\WINDOWS\\assembly\\GAC_MSIL\\Microsoft.VisualBasic\\8.0.0.0__b03f5f7f11d50a3a\\ntdll.dll"
             ],
             "file_failed": [
-                "C:\\Documents and Settings\\admin\\ellighixoqdjz",
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\ellighixoqdjz"
-            ],
-            "file_opened": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\koekuky.exe",
-                "C:\\WINDOWS\\system32\\shimeng.dll"
-            ],
-            "file_read": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\koekuky.exe",
-                "C:\\WINDOWS\\system32\\shimeng.dll"
-            ],
-            "file_written": [
-                "C:\\Documents and Settings\\admin\\Local Settings\\Temp\\koekuky.exe"
-            ],
-            "regkey_created": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process\\koekuky\\DEBUG",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process\\koekuky"
-            ],
-            "regkey_delete_failed": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process\\koekuky\\DEBUG\\Trace Level"
-            ],
-            "regkey_failed": [
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msxml6.dll",
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\shimeng.dll",
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\esent.dll",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process\\koekuky\\DEBUG"
-            ],
-            "regkey_opened": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Global\\DEBUG",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT",
-                "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\EventLog\\Application\\ESENT",
-                "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Msxml60"
-            ],
-            "regkey_read": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Global\\DEBUG\\Trace Level"
-            ],
-            "regkey_read_failed": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\LeakTracing",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\HeapCount",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\MaxXSLProcessors",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\LFH",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\DebugLeakInfo",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\NormalizeAttributeValuesDefaultValue",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\DeadlockTracing",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\GCThreshold",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\MaxGCThreshold",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\DebugMaxLines",
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\MSXML60\\NoFullGC"
-            ],
-            "regkey_written": [
-                "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\ESENT\\Process\\koekuky\\DEBUG\\Trace Level",
-                "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Eventlog\\Application\\ESENT\\CategoryMessageFile",
-                "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Eventlog\\Application\\ESENT\\TypesSupported",
-                "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Eventlog\\Application\\ESENT\\CategoryCount",
-                "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Eventlog\\Application\\ESENT\\EventMessageFile"
+                "C:\\Documents and Settings\\admin\\Desktop\\en\\Lazarus.resources.dll",
+                "C:\\Documents and Settings\\admin\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Documents and Settings\\admin\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.exe",
+                "C:\\Documents and Settings\\admin\\Desktop\\en-US\\Lazarus.resources.exe",
+                "C:\\Documents and Settings\\admin\\Desktop\\en-US\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Documents and Settings\\admin\\Desktop\\en\\Lazarus.resources\\Lazarus.resources.dll",
+                "C:\\Documents and Settings\\admin\\Desktop\\en\\Lazarus.resources.exe",
+                "C:\\Documents and Settings\\admin\\Desktop\\en-US\\Lazarus.resources.dll"
             ]
         }
     }

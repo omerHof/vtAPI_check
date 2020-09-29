@@ -15,6 +15,7 @@ class vt_check:
       - path_to_recommendation: str, input file Detection_recommendation
       - indicator_checked_dict: dict, all the indicators that all ready been checked in vt for the current session
       - verified_indicators_list: list, the verified indicator for each section
+      - vt_api_key = str, virus total api key
     """
 
     self.vt_engine_amount_of_files_to_check = amount_of_files_to_check
@@ -27,6 +28,7 @@ class vt_check:
     if self.threshold>100:
       self.threshold =100
 
+    self.vt_api_key = "b4e8ef265bdc9d5f25603cb9bf0436edb324aec64db43766881d7a7c39838b87"
     self.path_to_recommendation = ""
     self.indicator_checked_dict = {}
     self.verified_indicators_list =[]
@@ -79,69 +81,88 @@ class vt_check:
 
   """
   main function 
-  Find the percentage of malicious files for each indicator - if its below the threshold removed it.  
-    - malicious file => detection rate>20)
+  Find the percentage of malicious files for each indicator - if its below the threshold, removed it.  
+    example:
+    - malicious file => detection rate>20
+    - amount of files to check = 300
     - threshold = 98%
+    means that less than 6 files have a detection rate<20
   """
   def check_indicators_in_vt(self, indicators_list):
-    # vt api key
-    apikey = "b4e8ef265bdc9d5f25603cb9bf0436edb324aec64db43766881d7a7c39838b87"
+
     self.verified_indicators_list=copy.deepcopy(indicators_list)
     for indicator in indicators_list:
       # validate to indicator for vt engine
       indicator = self.validate_indicator(indicator)
       #check if the indicator has been checked before
       if indicator in self.indicator_checked_dict:
+        logging.info("malicious stats for " + indicator + ":")
         if (self.indicator_checked_dict[indicator]==False):
           self.remove_indicator(indicator)
+          logging.info("indicator :" + indicator + " - was found BENIGN, according to previous checks")
+        else:
+          logging.info("indicator :" + indicator + " - was found MALICIOUS, according to previous checks")
+
         continue
 
-      query = 'type:peexe behavior:"{}"'
-      query = query.format(indicator)
-      order = 'positives+'
-      with vt.Client(apikey) as client:
-        """
-        search api call params:
-        query (require) = indicator query , 
-        order = asc or desc (detection rate / file size ) 
-        limit = max file that will be return from vt, 
-        batch_size = max file that return on each call from vt 
-        """
-
-        try:
-          it = client.iterator('/intelligence/search',
-              params={'query': query, 'order':order},
-              limit = self.vt_engine_amount_of_files_to_check,
-              batch_size= self.vt_engine_amount_of_files_to_check)
-          logging.info("malicious stats for " + query + ":")
-          counter = 0
-
-          for obj in it:
-            if obj.last_analysis_stats['malicious']<self.malicious_file_detection_rate:
-              counter = counter+1
-            else:
-              percentage_of_malicious = 100 - (counter/len(it._items)*100)
-              logging.info("number of files found: " + str(len(it._items)))
-              logging.info("percentage of malicious hits: " + str(100 - (counter/len(it._items)*100)) + "%")
-              if percentage_of_malicious<self.threshold:
-                self.remove_indicator(indicator)
-                self.indicator_checked_dict[indicator] = False
-                logging.info("less than " + str(self.threshold) + " % of the files found malicious")
-              else:
-                self.indicator_checked_dict[indicator] = True
-              break
-
-          if indicator not in self.indicator_checked_dict:
-            logging.info("indicator :" + indicator + " - was found benign")
-            if it._count>0:
-              logging.info("less than " + str(self.threshold) + " % of the files found malicious")
-            else:
-              logging.info("no results on vt from the last 3 months")
+      with vt.Client(self.vt_api_key) as client:
+        logging.info("malicious stats for " + indicator + ":")
+        check_benign = False
+        total_results = self.get_matches_files_from_vt(client, indicator,check_benign)
+        check_benign = True
+        amount_of_benign = self.get_matches_files_from_vt(client, indicator,check_benign)
+        if total_results>0:
+          percentage_of_malicious = 100 - (amount_of_benign / total_results) * 100
+          if percentage_of_malicious>self.threshold:
+            logging.info("indicator: " + indicator + " - was found MALICIOUS because: ")
+            logging.info("number of files found: " + str(total_results))
+            logging.info("percentage of malicious hits: " + str(percentage_of_malicious) + "%")
+            self.indicator_checked_dict[indicator] = True
+          else:
+            logging.info("indicator: " + indicator + " - was found BENIGN because: ")
+            logging.info("less than " + str(self.threshold) + " % of the files found malicious")
             self.indicator_checked_dict[indicator] = False
             self.remove_indicator(indicator)
+        else:
+          logging.info("indicator: " + indicator + " - was found BENIGN because: ")
+          logging.info("no results on vt from the last 3 months")
+          self.indicator_checked_dict[indicator] = False
+          self.remove_indicator(indicator)
 
-        except:
-          logging.error("Failed to check indicator :" + indicator + "in VT engine")
+
+    """
+    get all benign results (less than malicious detection rate input) for an indicator - return a list of sha 256
+    """
+  def get_matches_files_from_vt(self, client, indicator,check_benign):
+    """
+    search api call params:
+    query (require) = indicator query ,
+    order = asc or desc (detection rate / file size )
+    limit = max file that will be return from vt,
+    batch_size = max file that return on each call from vt
+    descriptors_only = hash only (not all file data)
+    """
+    query = 'type:peexe behavior:"{}"'
+    query = query.format(indicator)
+    if check_benign:
+      query = query + "p:{}-"
+      query = query.format(self.malicious_file_detection_rate)
+    order = 'positives+'
+    descriptors_only = 'true'
+    try:
+      it = client.iterator('/intelligence/search',
+                           params={'query': query, 'order': order, 'descriptors_only': descriptors_only},
+                           limit=self.vt_engine_amount_of_files_to_check,
+                           batch_size=self.vt_engine_amount_of_files_to_check)
+      results = 0
+      for obj in it:
+        results = len(it._items)
+        break
+      return results
+    except Exception as e:
+      logging.error(
+        "Failed to check indicator : " + indicator + " in VT engine ERROR MSG: " + str(e))
+      return
 
   """
   validate that the indicator suitable for VT engine - if not change it
@@ -157,6 +178,8 @@ class vt_check:
           temp_list[idx] = v_indicator
       self.verified_indicators_list = temp_list
     v_indicator= v_indicator.replace('"', '')
+    v_indicator= v_indicator.replace('}', '')
+    v_indicator= v_indicator.replace('{', '')
     return v_indicator
 
   """
@@ -173,14 +196,15 @@ class vt_check:
 
   def remove_indicator(self, indicator):
     if type(self.verified_indicators_list) is list:
-      if indicator in self.verified_indicators_list:
-        self.verified_indicators_list.remove(indicator)
+      copy_list = copy.deepcopy(self.verified_indicators_list)
+      for verified_indicator in copy_list:
+        if indicator in verified_indicator:
+          self.verified_indicators_list.remove(verified_indicator)
 
     else:
       self.verified_indicators_list.pop(indicator)
 
 
-
 if __name__ == '__main__':
-  v =vt_check(300,98,20)
-  v.start("C:\\Users\\ohoff\\Documents\\vt_check_repo\\Detection_Recommendation.json")
+  v =vt_check(299,98,20)
+  v.start("C:\\Users\\ohoff\\Documents\\vt_check_repo\\repo_test\\Detection_Recommendation.json")

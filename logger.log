@@ -1,14 +1,4 @@
-CRITICAL:root:Host www.python.org unknown
-ERROR:root:Couldn't find 'spam'
-CRITICAL:root:Host www.python.org unknown
-ERROR:root:Couldn't find 'spam'
-WARNING:root:Feature is deprecated
-INFO:root:Opening file 'data.csv', mode = 'r'
-DEBUG:root:Got here
-INFO:root:Start VT check to reduce indicators
-INFO:root:Start VT check to reduce indicators
-INFO:root:Level 1 VT check
-DEBUG:asyncio:Using proactor: IocpProactor
+
 INFO:2020-09-24 06:58:07,062:Start VT check to reduce indicators
 INFO:2020-09-24 06:58:07,064:Level 1 VT check
 INFO:2020-09-24 06:58:07,064:malicious stats for type:peexe behavior:"koekuky.exe":
@@ -73,3 +63,1217 @@ INFO:2020-09-24 07:02:02,856:percentage of malicious hits: 100.0%
 INFO:2020-09-24 07:02:02,864:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
 INFO:2020-09-24 07:02:14,265:number of files found: 298
 INFO:2020-09-24 07:02:14,265:percentage of malicious hits: 100.0%
+INFO:2020-09-26 01:28:32,264:Start VT check to reduce indicators
+INFO:2020-09-26 01:28:32,316:Level 1 VT check
+INFO:2020-09-26 01:28:32,317:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-26 01:28:32,320:Using proactor: IocpProactor
+INFO:2020-09-26 01:43:31,668:Start VT check to reduce indicators
+INFO:2020-09-26 01:43:31,672:Level 1 VT check
+INFO:2020-09-26 01:43:31,674:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-26 01:43:31,677:Using proactor: IocpProactor
+INFO:2020-09-26 08:54:42,517:Start VT check to reduce indicators
+INFO:2020-09-26 08:54:42,549:Level 1 VT check
+INFO:2020-09-26 08:54:42,549:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-26 08:54:42,549:Using proactor: IocpProactor
+INFO:2020-09-26 08:55:05,181:Start VT check to reduce indicators
+INFO:2020-09-26 08:55:05,182:Level 1 VT check
+INFO:2020-09-26 08:55:05,182:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-26 08:55:05,182:Using proactor: IocpProactor
+INFO:2020-09-26 08:55:21,608:number of files found: 298
+INFO:2020-09-26 08:55:21,608:percentage of malicious hits: 100.0%
+INFO:2020-09-26 08:55:21,619:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe ":
+INFO:2020-09-26 08:55:32,215:number of files found: 146
+INFO:2020-09-26 08:55:32,215:percentage of malicious hits: 100.0%
+INFO:2020-09-26 08:55:32,219:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-26 08:58:11,431:Failed to check indicator :shimeng.dllin VT engine
+INFO:2020-09-26 08:58:11,433:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 08:58:16,892:Failed to check indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704in VT engine
+INFO:2020-09-26 08:58:16,894:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 08:58:19,709:indicator :C:\Windows\System32\ellighixoqdjz - was found benign
+INFO:2020-09-26 08:58:19,709:no results on vt from the last 3 months
+INFO:2020-09-26 08:58:19,711:malicious stats for type:peexe behavior:"ellighixoqdjz":
+ERROR:2020-09-26 08:58:35,575:Failed to check indicator :ellighixoqdjzin VT engine
+INFO:2020-09-26 08:58:35,577:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 08:58:58,058:Failed to check indicator :C:\Windows\System32\shimeng.dllin VT engine
+INFO:2020-09-26 08:58:58,058:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 08:59:18,864:Failed to check indicator :C:\Windows\System32\shimeng.dllin VT engine
+INFO:2020-09-26 08:59:18,864:malicious stats for type:peexe behavior:"Yd9dH99P":
+ERROR:2020-09-26 08:59:28,264:Failed to check indicator :Yd9dH99Pin VT engine
+INFO:2020-09-26 08:59:28,265:malicious stats for type:peexe behavior:"shimeng.dll":
+INFO:2020-09-26 09:07:50,217:Start VT check to reduce indicators
+INFO:2020-09-26 09:07:50,219:Level 1 VT check
+INFO:2020-09-26 09:07:50,219:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:07:50,220:Using proactor: IocpProactor
+INFO:2020-09-26 09:08:42,672:Start VT check to reduce indicators
+INFO:2020-09-26 09:08:42,674:Level 1 VT check
+INFO:2020-09-26 09:08:42,682:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:08:42,684:Using proactor: IocpProactor
+INFO:2020-09-26 09:09:39,630:Start VT check to reduce indicators
+INFO:2020-09-26 09:09:39,631:Level 1 VT check
+INFO:2020-09-26 09:09:39,633:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:09:39,635:Using proactor: IocpProactor
+INFO:2020-09-26 09:10:11,917:Start VT check to reduce indicators
+INFO:2020-09-26 09:10:11,917:Level 1 VT check
+INFO:2020-09-26 09:10:11,917:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:10:11,917:Using proactor: IocpProactor
+INFO:2020-09-26 09:12:05,741:Start VT check to reduce indicators
+INFO:2020-09-26 09:12:05,741:Level 1 VT check
+INFO:2020-09-26 09:12:05,743:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:12:05,745:Using proactor: IocpProactor
+INFO:2020-09-26 09:12:58,697:Start VT check to reduce indicators
+INFO:2020-09-26 09:12:58,698:Level 1 VT check
+INFO:2020-09-26 09:12:58,700:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:12:58,701:Using proactor: IocpProactor
+INFO:2020-09-26 09:13:33,566:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-26 09:13:40,518:less than 98 % of the files found malicious
+INFO:2020-09-26 09:13:53,946:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-26 09:13:59,140:number of files found: 9
+INFO:2020-09-26 09:13:59,142:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:13:59,142:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-26 09:14:09,672:indicator :esent.dll - was found benign because: 
+INFO:2020-09-26 09:14:09,672:less than 98 % of the files found malicious
+INFO:2020-09-26 09:14:09,673:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-26 09:14:21,564:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-26 09:14:21,565:less than 98 % of the files found malicious
+INFO:2020-09-26 09:14:21,565:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-26 09:14:30,427:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-26 09:14:30,429:less than 98 % of the files found malicious
+INFO:2020-09-26 09:14:30,429:malicious stats for type:peexe behavior:"koekuky.exe":
+INFO:2020-09-26 09:14:32,745:number of files found: 9
+INFO:2020-09-26 09:14:32,745:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:32,747:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 09:14:34,474:number of files found: 9
+INFO:2020-09-26 09:14:34,474:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:34,475:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 09:14:36,409:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 09:14:36,409:no results on vt from the last 3 months
+INFO:2020-09-26 09:14:36,414:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-26 09:14:38,576:number of files found: 9
+INFO:2020-09-26 09:14:38,576:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:38,577:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-26 09:14:47,741:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-26 09:14:47,741:less than 98 % of the files found malicious
+INFO:2020-09-26 09:14:47,742:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-26 09:14:47,742:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-26 09:14:49,908:number of files found: 9
+INFO:2020-09-26 09:14:49,908:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:49,908:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 09:14:49,908:Level 2 VT check
+INFO:2020-09-26 09:14:49,910:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-26 09:14:52,892:number of files found: 9
+INFO:2020-09-26 09:14:52,892:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:52,892:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-26 09:14:54,851:number of files found: 9
+INFO:2020-09-26 09:14:54,851:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:54,853:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-26 09:14:56,780:number of files found: 9
+INFO:2020-09-26 09:14:56,780:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:56,781:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-26 09:14:58,620:number of files found: 9
+INFO:2020-09-26 09:14:58,620:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:14:58,620:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 09:14:58,620:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 09:14:58,620:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 09:15:00,531:number of files found: 9
+INFO:2020-09-26 09:15:00,532:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:15:00,532:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 09:15:01,937:number of files found: 9
+INFO:2020-09-26 09:15:01,937:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:15:01,938:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-26 09:15:04,368:number of files found: 9
+INFO:2020-09-26 09:15:04,369:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:15:04,370:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-26 09:15:05,954:number of files found: 9
+INFO:2020-09-26 09:15:05,954:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:18:09,932:Start VT check to reduce indicators
+INFO:2020-09-26 09:18:09,934:Level 1 VT check
+INFO:2020-09-26 09:18:09,936:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:18:09,936:Using proactor: IocpProactor
+INFO:2020-09-26 09:18:19,365:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-26 09:18:19,365:less than 98 % of the files found malicious
+INFO:2020-09-26 09:18:19,365:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-26 09:26:02,905:number of files found: 9
+INFO:2020-09-26 09:26:02,913:percentage of malicious hits: 100.0%
+INFO:2020-09-26 09:26:02,926:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-26 09:26:28,963:Start VT check to reduce indicators
+INFO:2020-09-26 09:26:28,966:Level 1 VT check
+INFO:2020-09-26 09:26:28,969:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:26:28,972:Using proactor: IocpProactor
+INFO:2020-09-26 09:29:58,343:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-26 09:29:58,349:less than 98 % of the files found malicious
+INFO:2020-09-26 09:29:58,352:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-26 09:32:22,553:number of files found: 9
+INFO:2020-09-26 09:34:34,631:Start VT check to reduce indicators
+INFO:2020-09-26 09:34:34,681:Level 1 VT check
+INFO:2020-09-26 09:34:34,681:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 09:34:34,681:Using proactor: IocpProactor
+ERROR:2020-09-26 09:34:41,996:Failed to check indicator :shimeng.dll in VT engine
+INFO:2020-09-26 09:34:41,998:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 09:34:45,500:Failed to check indicator :koekuky.exe in VT engine
+INFO:2020-09-26 09:34:45,503:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 09:34:47,985:Failed to check indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine
+INFO:2020-09-26 09:34:47,985:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 09:34:50,998:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 09:34:51,001:no results on vt from the last 3 months
+INFO:2020-09-26 09:34:51,002:malicious stats for type:peexe behavior:"ellighixoqdjz":
+ERROR:2020-09-26 09:34:53,021:Failed to check indicator :ellighixoqdjz in VT engine
+INFO:2020-09-26 09:34:53,024:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 09:35:00,301:Failed to check indicator :C:\Windows\System32\shimeng.dll in VT engine
+INFO:2020-09-26 09:35:00,301:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 09:35:05,025:Failed to check indicator :C:\Windows\System32\shimeng.dll in VT engine
+INFO:2020-09-26 09:35:05,025:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 09:35:07,646:Failed to check indicator :koekuky.exe in VT engine
+INFO:2020-09-26 09:35:07,646:malicious stats for type:peexe behavior:"Yd9dH99P":
+ERROR:2020-09-26 09:35:09,657:Failed to check indicator :Yd9dH99P in VT engine
+INFO:2020-09-26 09:35:09,658:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-26 09:35:12,207:Failed to check indicator :shimeng.dll in VT engine
+INFO:2020-09-26 09:35:12,207:Level 2 VT check
+INFO:2020-09-26 09:35:12,207:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-26 09:35:16,608:Failed to check indicator :.*\\appdata\\local\\temp\\koekuky.exe in VT engine
+INFO:2020-09-26 09:35:16,608:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-26 09:35:19,639:Failed to check indicator :shimeng.dll in VT engine
+INFO:2020-09-26 09:35:19,639:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-26 09:35:22,246:Failed to check indicator :.*\\appdata\\local\\temp\\koekuky.exe in VT engine
+INFO:2020-09-26 09:35:22,246:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 09:35:24,377:Failed to check indicator :.*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine
+INFO:2020-09-26 09:35:24,377:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+ERROR:2020-09-26 09:35:26,955:Failed to check indicator :.*\\appdata\\local\\temp\\ellighixoqdjz in VT engine
+INFO:2020-09-26 09:35:26,957:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-26 09:35:29,551:Failed to check indicator :.*\\appdata\\local\\temp\\koekuky.exe in VT engine
+INFO:2020-09-26 09:35:29,553:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-26 09:35:31,505:Failed to check indicator :.*\\appdata\\local\\temp\\koekuky.exe in VT engine
+INFO:2020-09-26 09:35:31,505:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-26 09:35:33,612:Failed to check indicator :.*\\appdata\\local\\temp\\koekuky.exe in VT engine
+INFO:2020-09-26 22:56:55,442:Start VT check to reduce indicators
+INFO:2020-09-26 22:56:55,445:Level 1 VT check
+INFO:2020-09-26 22:56:55,450:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 22:56:55,453:Using proactor: IocpProactor
+INFO:2020-09-26 22:57:48,455:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-26 22:57:52,537:less than 98 % of the files found malicious
+INFO:2020-09-26 22:58:00,765:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-26 22:58:14,871:number of files found: 9
+INFO:2020-09-26 22:58:15,432:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:58:49,675:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-26 22:58:57,813:indicator :esent.dll - was found benign because: 
+INFO:2020-09-26 22:58:57,815:less than 98 % of the files found malicious
+INFO:2020-09-26 22:58:57,815:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-26 22:59:11,988:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-26 22:59:11,988:less than 98 % of the files found malicious
+INFO:2020-09-26 22:59:11,989:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-26 22:59:21,377:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-26 22:59:21,377:less than 98 % of the files found malicious
+INFO:2020-09-26 22:59:21,378:malicious stats for type:peexe behavior:"koekuky.exe":
+INFO:2020-09-26 22:59:23,421:number of files found: 9
+INFO:2020-09-26 22:59:23,422:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:23,423:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 22:59:24,811:number of files found: 9
+INFO:2020-09-26 22:59:24,811:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:24,812:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 22:59:26,538:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 22:59:26,538:no results on vt from the last 3 months
+INFO:2020-09-26 22:59:26,539:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-26 22:59:28,020:number of files found: 9
+INFO:2020-09-26 22:59:28,020:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:28,020:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-26 22:59:36,054:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-26 22:59:36,054:less than 98 % of the files found malicious
+INFO:2020-09-26 22:59:36,055:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-26 22:59:36,055:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-26 22:59:37,861:number of files found: 9
+INFO:2020-09-26 22:59:37,861:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:37,862:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 22:59:37,862:Level 2 VT check
+INFO:2020-09-26 22:59:37,862:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-26 22:59:40,167:number of files found: 9
+INFO:2020-09-26 22:59:40,169:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:40,171:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-26 22:59:42,158:number of files found: 9
+INFO:2020-09-26 22:59:42,159:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:42,159:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-26 22:59:44,061:number of files found: 9
+INFO:2020-09-26 22:59:44,061:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:44,062:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-26 22:59:45,612:number of files found: 9
+INFO:2020-09-26 22:59:45,612:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:45,615:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 22:59:45,616:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 22:59:45,616:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 22:59:47,118:number of files found: 9
+INFO:2020-09-26 22:59:47,118:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:47,119:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 22:59:48,516:number of files found: 9
+INFO:2020-09-26 22:59:48,516:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:48,517:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-26 22:59:49,931:number of files found: 9
+INFO:2020-09-26 22:59:49,931:percentage of malicious hits: 100.0%
+INFO:2020-09-26 22:59:49,931:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-26 22:59:51,284:number of files found: 9
+INFO:2020-09-26 22:59:51,284:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:00:27,428:Start VT check to reduce indicators
+INFO:2020-09-26 23:00:27,428:Level 1 VT check
+INFO:2020-09-26 23:00:27,428:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:00:27,428:Using proactor: IocpProactor
+INFO:2020-09-26 23:00:39,180:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-26 23:00:39,180:less than 98 % of the files found malicious
+INFO:2020-09-26 23:00:39,180:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-26 23:00:41,487:number of files found: 9
+INFO:2020-09-26 23:00:41,487:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:00:41,488:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-26 23:00:50,501:indicator :esent.dll - was found benign because: 
+INFO:2020-09-26 23:00:50,502:less than 98 % of the files found malicious
+INFO:2020-09-26 23:00:50,502:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-26 23:01:01,859:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-26 23:01:01,859:less than 98 % of the files found malicious
+INFO:2020-09-26 23:01:01,860:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-26 23:01:10,872:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-26 23:01:10,872:less than 98 % of the files found malicious
+INFO:2020-09-26 23:01:10,873:malicious stats for type:peexe behavior:"koekuky.exe":
+INFO:2020-09-26 23:01:13,777:number of files found: 9
+INFO:2020-09-26 23:01:13,777:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:13,779:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 23:01:15,438:number of files found: 9
+INFO:2020-09-26 23:01:15,438:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:15,438:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 23:01:17,189:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 23:01:17,189:no results on vt from the last 3 months
+INFO:2020-09-26 23:01:17,286:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-26 23:01:18,841:number of files found: 9
+INFO:2020-09-26 23:01:18,843:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:18,843:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-26 23:01:29,692:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-26 23:01:29,692:less than 98 % of the files found malicious
+INFO:2020-09-26 23:01:29,692:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-26 23:01:29,692:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-26 23:01:31,326:number of files found: 9
+INFO:2020-09-26 23:01:31,326:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:31,327:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 23:01:31,327:Level 2 VT check
+INFO:2020-09-26 23:01:31,327:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-26 23:01:32,985:number of files found: 9
+INFO:2020-09-26 23:01:32,985:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:32,986:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-26 23:01:35,778:number of files found: 9
+INFO:2020-09-26 23:01:35,778:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:35,780:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-26 23:01:37,181:number of files found: 9
+INFO:2020-09-26 23:01:37,181:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:37,182:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-26 23:01:38,583:number of files found: 9
+INFO:2020-09-26 23:01:38,583:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:38,583:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 23:01:38,583:indicator :shimeng.dll - was found benign
+INFO:2020-09-26 23:01:38,583:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 23:01:40,574:number of files found: 9
+INFO:2020-09-26 23:01:40,574:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:40,575:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-26 23:01:42,099:number of files found: 9
+INFO:2020-09-26 23:01:42,099:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:42,101:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-26 23:01:44,067:number of files found: 9
+INFO:2020-09-26 23:01:44,067:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:01:44,067:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-26 23:01:45,345:number of files found: 9
+INFO:2020-09-26 23:01:45,345:percentage of malicious hits: 100.0%
+INFO:2020-09-26 23:02:11,941:Start VT check to reduce indicators
+INFO:2020-09-26 23:02:11,942:Level 1 VT check
+INFO:2020-09-26 23:02:11,942:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:02:11,942:Using proactor: IocpProactor
+ERROR:2020-09-26 23:04:14,243:Failed to check indicator :shimeng.dll in VT engine
+INFO:2020-09-26 23:04:14,243:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 23:04:15,962:Failed to check indicator :koekuky.exe in VT engine
+INFO:2020-09-26 23:04:15,963:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 23:04:17,202:Failed to check indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine
+INFO:2020-09-26 23:04:17,202:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 23:04:18,442:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 23:04:18,442:no results on vt from the last 3 months
+INFO:2020-09-26 23:04:18,442:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-26 23:10:39,015:Start VT check to reduce indicators
+INFO:2020-09-26 23:10:39,018:Level 1 VT check
+INFO:2020-09-26 23:10:39,020:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:10:39,024:Using proactor: IocpProactor
+ERROR:2020-09-26 23:10:42,987:Failed to check indicator : shimeng.dll in VT engine
+INFO:2020-09-26 23:10:42,987:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 23:10:45,077:Failed to check indicator : koekuky.exe in VT engine
+INFO:2020-09-26 23:10:45,078:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 23:10:46,408:Failed to check indicator : 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine
+INFO:2020-09-26 23:10:46,410:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 23:14:43,189:Start VT check to reduce indicators
+INFO:2020-09-26 23:14:43,193:Level 1 VT check
+INFO:2020-09-26 23:14:43,197:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:14:43,200:Using proactor: IocpProactor
+INFO:2020-09-26 23:15:13,643:Start VT check to reduce indicators
+INFO:2020-09-26 23:15:13,645:Level 1 VT check
+INFO:2020-09-26 23:15:13,647:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:15:13,647:Using proactor: IocpProactor
+INFO:2020-09-26 23:17:25,516:Start VT check to reduce indicators
+INFO:2020-09-26 23:17:25,517:Level 1 VT check
+INFO:2020-09-26 23:17:25,517:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:17:25,517:Using proactor: IocpProactor
+INFO:2020-09-26 23:19:23,857:Start VT check to reduce indicators
+INFO:2020-09-26 23:19:23,857:Level 1 VT check
+INFO:2020-09-26 23:19:23,859:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:19:23,859:Using proactor: IocpProactor
+INFO:2020-09-26 23:19:50,556:Start VT check to reduce indicators
+INFO:2020-09-26 23:19:50,557:Level 1 VT check
+INFO:2020-09-26 23:19:50,557:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:19:50,558:Using proactor: IocpProactor
+ERROR:2020-09-26 23:19:52,502:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:19:52,502:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 23:19:54,861:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:19:54,861:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-26 23:19:56,205:Failed to check indicator : 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:19:56,208:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-26 23:19:57,945:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-26 23:19:57,945:no results on vt from the last 3 months
+INFO:2020-09-26 23:19:57,946:malicious stats for type:peexe behavior:"ellighixoqdjz":
+ERROR:2020-09-26 23:19:59,326:Failed to check indicator : ellighixoqdjz in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:19:59,326:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 23:20:06,980:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:20:06,982:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-26 23:20:11,283:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:20:11,284:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-26 23:20:13,135:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:20:13,135:malicious stats for type:peexe behavior:"Yd9dH99P":
+ERROR:2020-09-26 23:20:14,978:Failed to check indicator : Yd9dH99P in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:20:14,979:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-26 23:20:17,041:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: <class 'vt.error.APIError'>
+INFO:2020-09-26 23:20:17,041:Level 2 VT check
+INFO:2020-09-26 23:20:17,041:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-26 23:20:36,276:Start VT check to reduce indicators
+INFO:2020-09-26 23:20:36,278:Level 1 VT check
+INFO:2020-09-26 23:20:36,456:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:20:36,459:Using proactor: IocpProactor
+INFO:2020-09-26 23:21:46,553:Start VT check to reduce indicators
+INFO:2020-09-26 23:21:46,554:Level 1 VT check
+INFO:2020-09-26 23:21:46,557:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:21:46,558:Using proactor: IocpProactor
+INFO:2020-09-26 23:23:07,022:Start VT check to reduce indicators
+INFO:2020-09-26 23:23:07,024:Level 1 VT check
+INFO:2020-09-26 23:23:07,026:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:23:07,026:Using proactor: IocpProactor
+INFO:2020-09-26 23:23:24,431:Start VT check to reduce indicators
+INFO:2020-09-26 23:23:24,433:Level 1 VT check
+INFO:2020-09-26 23:23:24,435:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:23:24,437:Using proactor: IocpProactor
+INFO:2020-09-26 23:23:50,749:Start VT check to reduce indicators
+INFO:2020-09-26 23:23:50,751:Level 1 VT check
+INFO:2020-09-26 23:23:50,753:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:23:50,755:Using proactor: IocpProactor
+INFO:2020-09-26 23:24:06,452:Start VT check to reduce indicators
+INFO:2020-09-26 23:24:06,454:Level 1 VT check
+INFO:2020-09-26 23:24:06,456:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:24:06,458:Using proactor: IocpProactor
+INFO:2020-09-26 23:25:52,401:Start VT check to reduce indicators
+INFO:2020-09-26 23:25:52,403:Level 1 VT check
+INFO:2020-09-26 23:25:52,405:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:25:52,407:Using proactor: IocpProactor
+INFO:2020-09-26 23:27:33,381:Start VT check to reduce indicators
+INFO:2020-09-26 23:27:33,381:Level 1 VT check
+INFO:2020-09-26 23:27:33,381:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:27:33,381:Using proactor: IocpProactor
+INFO:2020-09-26 23:27:47,135:Start VT check to reduce indicators
+INFO:2020-09-26 23:27:47,137:Level 1 VT check
+INFO:2020-09-26 23:27:47,139:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:27:47,141:Using proactor: IocpProactor
+INFO:2020-09-26 23:29:53,678:Start VT check to reduce indicators
+INFO:2020-09-26 23:29:53,681:Level 1 VT check
+INFO:2020-09-26 23:29:53,683:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:29:53,684:Using proactor: IocpProactor
+INFO:2020-09-26 23:31:21,485:Start VT check to reduce indicators
+INFO:2020-09-26 23:31:21,487:Level 1 VT check
+INFO:2020-09-26 23:31:21,489:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:31:21,492:Using proactor: IocpProactor
+INFO:2020-09-26 23:33:34,024:Start VT check to reduce indicators
+INFO:2020-09-26 23:33:34,026:Level 1 VT check
+INFO:2020-09-26 23:33:34,028:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:33:34,032:Using proactor: IocpProactor
+INFO:2020-09-26 23:34:43,441:Start VT check to reduce indicators
+INFO:2020-09-26 23:34:43,443:Level 1 VT check
+INFO:2020-09-26 23:34:43,446:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-26 23:34:43,446:Using proactor: IocpProactor
+INFO:2020-09-27 00:43:52,090:Start VT check to reduce indicators
+INFO:2020-09-27 00:43:52,092:Level 1 VT check
+INFO:2020-09-27 00:43:52,092:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-27 00:43:52,092:Using proactor: IocpProactor
+INFO:2020-09-27 00:43:55,805:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-27 00:43:55,806:less than 98 % of the files found malicious
+INFO:2020-09-27 00:43:55,806:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-27 00:43:58,211:number of files found: 9
+INFO:2020-09-27 00:43:58,211:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:43:58,212:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-27 00:44:00,024:indicator :esent.dll - was found benign because: 
+INFO:2020-09-27 00:44:00,024:less than 98 % of the files found malicious
+INFO:2020-09-27 00:44:00,025:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-27 00:44:07,234:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-27 00:44:07,236:less than 98 % of the files found malicious
+INFO:2020-09-27 00:44:07,236:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-27 00:44:09,772:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-27 00:44:09,772:less than 98 % of the files found malicious
+INFO:2020-09-27 00:44:09,774:malicious stats for type:peexe behavior:"koekuky.exe":
+INFO:2020-09-27 00:44:12,127:number of files found: 9
+INFO:2020-09-27 00:44:12,128:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:12,129:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:44:13,732:number of files found: 9
+INFO:2020-09-27 00:44:13,732:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:13,733:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-27 00:44:15,677:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-27 00:44:15,677:no results on vt from the last 3 months
+INFO:2020-09-27 00:44:15,679:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-27 00:44:17,520:number of files found: 9
+INFO:2020-09-27 00:44:17,520:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:17,521:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-27 00:44:23,007:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-27 00:44:23,007:less than 98 % of the files found malicious
+INFO:2020-09-27 00:44:23,008:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-27 00:44:23,008:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-27 00:44:24,618:number of files found: 9
+INFO:2020-09-27 00:44:24,618:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:24,619:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:44:24,619:Level 2 VT check
+INFO:2020-09-27 00:44:24,619:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-27 00:44:27,258:number of files found: 9
+INFO:2020-09-27 00:44:27,259:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:27,259:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-27 00:44:28,589:number of files found: 9
+INFO:2020-09-27 00:44:28,589:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:28,590:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-27 00:44:30,961:number of files found: 9
+INFO:2020-09-27 00:44:30,961:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:30,962:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-27 00:44:32,735:number of files found: 9
+INFO:2020-09-27 00:44:32,735:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:32,736:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:44:32,736:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:44:32,736:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:44:34,278:number of files found: 9
+INFO:2020-09-27 00:44:34,278:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:34,278:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:44:36,873:number of files found: 9
+INFO:2020-09-27 00:44:36,873:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:44:36,874:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-27 00:44:50,287:Start VT check to reduce indicators
+INFO:2020-09-27 00:44:50,287:Level 1 VT check
+INFO:2020-09-27 00:44:50,287:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-27 00:44:50,287:Using proactor: IocpProactor
+INFO:2020-09-27 00:45:01,185:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-27 00:45:01,185:less than 98 % of the files found malicious
+INFO:2020-09-27 00:45:01,187:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-27 00:45:10,858:number of files found: 298
+INFO:2020-09-27 00:45:10,860:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:45:10,865:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-27 00:45:21,037:indicator :esent.dll - was found benign because: 
+INFO:2020-09-27 00:45:21,037:less than 98 % of the files found malicious
+INFO:2020-09-27 00:45:21,038:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-27 00:45:35,962:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-27 00:45:35,962:less than 98 % of the files found malicious
+INFO:2020-09-27 00:45:35,963:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-27 00:45:51,055:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-27 00:45:51,056:less than 98 % of the files found malicious
+INFO:2020-09-27 00:45:51,056:malicious stats for type:peexe behavior:"koekuky.exe":
+INFO:2020-09-27 00:45:59,866:number of files found: 298
+INFO:2020-09-27 00:45:59,866:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:45:59,872:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:46:02,588:number of files found: 45
+INFO:2020-09-27 00:46:02,588:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:02,591:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-27 00:46:03,793:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-27 00:46:03,793:no results on vt from the last 3 months
+INFO:2020-09-27 00:46:03,794:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-27 00:46:12,590:number of files found: 298
+INFO:2020-09-27 00:46:12,591:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:12,599:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-27 00:46:24,919:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-27 00:46:24,919:less than 98 % of the files found malicious
+INFO:2020-09-27 00:46:24,920:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-27 00:46:24,920:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-27 00:46:34,890:number of files found: 298
+INFO:2020-09-27 00:46:34,890:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:34,896:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:46:34,896:Level 2 VT check
+INFO:2020-09-27 00:46:34,896:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-27 00:46:42,504:number of files found: 298
+INFO:2020-09-27 00:46:42,505:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:42,511:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-27 00:46:51,356:number of files found: 298
+INFO:2020-09-27 00:46:51,356:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:51,365:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-27 00:46:58,981:number of files found: 298
+INFO:2020-09-27 00:46:58,981:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:46:58,988:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-27 00:47:07,054:number of files found: 298
+INFO:2020-09-27 00:47:07,054:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:47:07,055:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:47:07,060:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 00:47:07,060:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:47:11,055:number of files found: 45
+INFO:2020-09-27 00:47:11,055:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:47:11,056:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 00:47:14,618:number of files found: 45
+INFO:2020-09-27 00:47:14,618:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:47:14,623:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-27 00:47:22,477:number of files found: 298
+INFO:2020-09-27 00:47:22,477:percentage of malicious hits: 100.0%
+INFO:2020-09-27 00:47:22,502:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-27 00:47:30,143:number of files found: 298
+INFO:2020-09-27 00:47:30,144:percentage of malicious hits: 100.0%
+INFO:2020-09-27 03:40:03,789:Start VT check to reduce indicators
+INFO:2020-09-27 03:40:03,816:Level 1 VT check
+INFO:2020-09-27 03:40:03,819:malicious stats for type:peexe behavior:"shimeng.dll":
+DEBUG:2020-09-27 03:40:03,822:Using proactor: IocpProactor
+INFO:2020-09-27 04:36:53,828:Start VT check to reduce indicators
+INFO:2020-09-27 04:36:53,856:Level 1 VT check
+INFO:2020-09-27 04:37:10,029:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:37:20,031:Using proactor: IocpProactor
+INFO:2020-09-27 04:37:44,827:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+INFO:2020-09-27 04:38:03,269:Start VT check to reduce indicators
+INFO:2020-09-27 04:38:03,270:Level 1 VT check
+INFO:2020-09-27 04:38:05,140:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:38:05,143:Using proactor: IocpProactor
+INFO:2020-09-27 04:38:13,760:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+INFO:2020-09-27 04:38:50,429:Start VT check to reduce indicators
+INFO:2020-09-27 04:38:50,430:Level 1 VT check
+INFO:2020-09-27 04:38:58,917:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:38:58,918:Using proactor: IocpProactor
+INFO:2020-09-27 04:39:59,029:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+INFO:2020-09-27 04:40:43,680:Start VT check to reduce indicators
+INFO:2020-09-27 04:40:43,682:Level 1 VT check
+INFO:2020-09-27 04:40:43,682:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:40:43,684:Using proactor: IocpProactor
+INFO:2020-09-27 04:41:01,601:malicious stats for type:peexe behavior:"koekuky.exe"p:20+:
+INFO:2020-09-27 04:57:07,739:Start VT check to reduce indicators
+INFO:2020-09-27 04:57:07,743:Level 1 VT check
+INFO:2020-09-27 04:57:17,090:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:57:17,104:Using proactor: IocpProactor
+INFO:2020-09-27 04:57:44,158:Start VT check to reduce indicators
+INFO:2020-09-27 04:57:44,160:Level 1 VT check
+INFO:2020-09-27 04:58:07,561:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:58:11,501:Using proactor: IocpProactor
+INFO:2020-09-27 04:58:46,184:Start VT check to reduce indicators
+INFO:2020-09-27 04:58:46,186:Level 1 VT check
+INFO:2020-09-27 04:58:48,893:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 04:58:48,933:Using proactor: IocpProactor
+INFO:2020-09-27 04:59:09,262:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+INFO:2020-09-27 04:59:25,228:indicator :koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 04:59:25,228:number of files found: 298
+INFO:2020-09-27 04:59:25,228:percentage of malicious hits: 100.0%
+INFO:2020-09-27 04:59:30,095:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe ":
+INFO:2020-09-27 04:59:32,820:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe "p:20-:
+INFO:2020-09-27 04:59:33,861:indicator :C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 04:59:33,861:number of files found: 145
+INFO:2020-09-27 04:59:33,861:percentage of malicious hits: 100.0%
+INFO:2020-09-27 04:59:33,864:malicious stats for type:peexe behavior:"shimeng.dll":
+INFO:2020-09-27 04:59:37,820:malicious stats for type:peexe behavior:"shimeng.dll"p:20-:
+INFO:2020-09-27 04:59:39,007:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-27 04:59:39,007:less than 98 % of the files found malicious
+INFO:2020-09-27 04:59:39,009:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-27 04:59:40,905:malicious stats for type:peexe behavior:"asxml6.dll"p:20-:
+INFO:2020-09-27 04:59:41,829:indicator :asxml6.dll - was found MALICIOUS because: 
+INFO:2020-09-27 04:59:41,829:number of files found: 298
+INFO:2020-09-27 04:59:41,829:percentage of malicious hits: 100.0%
+INFO:2020-09-27 04:59:41,831:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-27 04:59:44,451:malicious stats for type:peexe behavior:"esent.dll"p:20-:
+INFO:2020-09-27 04:59:45,725:indicator :esent.dll - was found benign because: 
+INFO:2020-09-27 04:59:45,725:less than 98 % of the files found malicious
+INFO:2020-09-27 04:59:45,727:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-27 04:59:51,007:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll"p:20-:
+INFO:2020-09-27 04:59:54,338:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-27 04:59:54,338:less than 98 % of the files found malicious
+INFO:2020-09-27 04:59:54,339:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-27 04:59:56,222:malicious stats for type:peexe behavior:"msxml6.dll"p:20-:
+INFO:2020-09-27 04:59:57,492:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-27 04:59:57,500:less than 98 % of the files found malicious
+INFO:2020-09-27 04:59:57,502:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 04:59:59,266:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:00:01,015:indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:01,015:number of files found: 45
+INFO:2020-09-27 05:00:01,015:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:01,016:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-27 05:00:04,931:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:00:07,051:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-27 05:00:07,051:no results on vt from the last 3 months
+INFO:2020-09-27 05:00:07,052:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-27 05:00:08,967:malicious stats for type:peexe behavior:"ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:00:10,131:indicator :ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:10,131:number of files found: 298
+INFO:2020-09-27 05:00:10,131:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:10,132:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-27 05:00:16,174:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll"p:20-:
+INFO:2020-09-27 05:00:18,374:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-27 05:00:18,374:less than 98 % of the files found malicious
+INFO:2020-09-27 05:00:18,375:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-27 05:00:18,375:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-27 05:00:19,779:malicious stats for type:peexe behavior:"Yd9dH99P"p:20-:
+INFO:2020-09-27 05:00:21,032:indicator :Yd9dH99P - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:21,033:number of files found: 298
+INFO:2020-09-27 05:00:21,033:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:21,034:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:00:21,034:Level 2 VT check
+INFO:2020-09-27 05:00:21,034:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-27 05:00:25,189:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+INFO:2020-09-27 05:00:26,736:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:26,736:number of files found: 298
+INFO:2020-09-27 05:00:26,736:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:26,736:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-27 05:00:28,394:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe "p:20-:
+INFO:2020-09-27 05:00:29,488:indicator :.*\\appdata\\local\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:29,489:number of files found: 298
+INFO:2020-09-27 05:00:29,489:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:29,490:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-27 05:00:31,492:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe"p:20-:
+INFO:2020-09-27 05:00:33,186:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:33,186:number of files found: 298
+INFO:2020-09-27 05:00:33,186:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:33,186:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-27 05:00:34,998:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe "p:20-:
+INFO:2020-09-27 05:00:37,218:indicator :.*\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:37,218:number of files found: 298
+INFO:2020-09-27 05:00:37,218:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:37,219:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:00:37,219:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:00:37,220:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 05:00:38,984:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:00:39,958:indicator :.*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:39,959:number of files found: 45
+INFO:2020-09-27 05:00:39,959:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:39,959:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 05:00:41,193:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:00:42,299:indicator :.*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:42,299:number of files found: 45
+INFO:2020-09-27 05:00:42,299:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:42,300:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-27 05:00:43,819:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:00:44,873:indicator :.*\\appdata\\local\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:44,874:number of files found: 298
+INFO:2020-09-27 05:00:44,874:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:00:44,874:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-27 05:00:46,486:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:00:47,322:indicator :.*\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:00:47,323:number of files found: 298
+INFO:2020-09-27 05:00:47,323:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:10:29,269:Start VT check to reduce indicators
+INFO:2020-09-27 05:10:29,298:Level 1 VT check
+INFO:2020-09-27 05:10:29,298:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 05:10:29,299:Using proactor: IocpProactor
+ERROR:2020-09-27 05:10:29,869:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:29,869:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:30,082:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:30,082:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:30,082:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-27 05:10:30,480:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:30,482:malicious stats for type:peexe behavior:"shimeng.dll"p:20-:
+ERROR:2020-09-27 05:10:30,680:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:30,680:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:30,682:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-27 05:10:31,062:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:31,062:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:31,305:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:31,305:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:31,305:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-27 05:10:31,712:Failed to check indicator : 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:31,712:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+ERROR:2020-09-27 05:10:31,931:Failed to check indicator : 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:31,931:Failed to check indicator : 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:31,933:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+ERROR:2020-09-27 05:10:32,303:Failed to check indicator : C:\Windows\System32\ellighixoqdjz in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:32,303:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz"p:20-:
+ERROR:2020-09-27 05:10:32,559:Failed to check indicator : C:\Windows\System32\ellighixoqdjz in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:32,559:Failed to check indicator : C:\Windows\System32\ellighixoqdjz in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:32,560:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-27 05:10:32,952:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:32,952:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll"p:20-:
+ERROR:2020-09-27 05:10:33,181:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:33,181:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:33,182:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+ERROR:2020-09-27 05:10:33,552:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:33,553:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll"p:20-:
+ERROR:2020-09-27 05:10:33,751:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:33,751:Failed to check indicator : C:\Windows\System32\shimeng.dll in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:33,752:malicious stats for type:peexe behavior:"koekuky.exe":
+ERROR:2020-09-27 05:10:34,132:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:34,132:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:34,339:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:34,339:Failed to check indicator : koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:34,339:malicious stats for type:peexe behavior:"Yd9dH99P":
+ERROR:2020-09-27 05:10:34,733:Failed to check indicator : Yd9dH99P in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:34,733:malicious stats for type:peexe behavior:"Yd9dH99P"p:20-:
+ERROR:2020-09-27 05:10:34,930:Failed to check indicator : Yd9dH99P in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:34,931:Failed to check indicator : Yd9dH99P in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:34,932:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-27 05:10:35,310:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:35,310:malicious stats for type:peexe behavior:"shimeng.dll"p:20-:
+ERROR:2020-09-27 05:10:35,636:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:35,636:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:35,637:Level 2 VT check
+INFO:2020-09-27 05:10:35,637:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-27 05:10:36,345:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:36,345:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:36,560:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:36,560:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:36,560:malicious stats for type:peexe behavior:"shimeng.dll":
+ERROR:2020-09-27 05:10:37,219:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:37,221:malicious stats for type:peexe behavior:"shimeng.dll"p:20-:
+ERROR:2020-09-27 05:10:37,664:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:37,664:Failed to check indicator : shimeng.dll in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:37,666:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-27 05:10:38,293:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:38,293:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:38,498:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:38,498:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:38,499:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+ERROR:2020-09-27 05:10:38,885:Failed to check indicator : .*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:38,885:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+ERROR:2020-09-27 05:10:39,083:Failed to check indicator : .*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:39,083:Failed to check indicator : .*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:39,084:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+ERROR:2020-09-27 05:10:39,470:Failed to check indicator : .*\\appdata\\local\\temp\\ellighixoqdjz in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:39,470:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz"p:20-:
+ERROR:2020-09-27 05:10:39,672:Failed to check indicator : .*\\appdata\\local\\temp\\ellighixoqdjz in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:39,673:Failed to check indicator : .*\\appdata\\local\\temp\\ellighixoqdjz in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:39,673:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-27 05:10:40,077:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:40,077:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:40,292:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:40,297:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:40,298:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-27 05:10:40,685:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:40,685:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:40,889:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:40,889:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:10:40,889:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+ERROR:2020-09-27 05:10:41,260:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+INFO:2020-09-27 05:10:41,260:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+ERROR:2020-09-27 05:10:41,456:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: ('NotFoundError', 'Resource not found.')
+ERROR:2020-09-27 05:10:41,456:Failed to check indicator : .*\\appdata\\local\\temp\\koekuky.exe in VT engine ERROR MSG: '>' not supported between instances of 'NoneType' and 'int'
+INFO:2020-09-27 05:16:45,029:Start VT check to reduce indicators
+INFO:2020-09-27 05:16:45,030:Level 1 VT check
+INFO:2020-09-27 05:16:45,030:malicious stats for type:peexe behavior:"koekuky.exe":
+DEBUG:2020-09-27 05:16:45,031:Using proactor: IocpProactor
+INFO:2020-09-27 05:16:47,419:malicious stats for type:peexe behavior:"koekuky.exe"p:20-:
+INFO:2020-09-27 05:16:48,274:indicator :koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:16:48,274:number of files found: 298
+INFO:2020-09-27 05:16:48,284:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:16:48,289:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe ":
+INFO:2020-09-27 05:16:50,969:malicious stats for type:peexe behavior:"C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe "p:20-:
+INFO:2020-09-27 05:16:51,724:indicator :C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:16:51,724:number of files found: 145
+INFO:2020-09-27 05:16:51,724:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:16:51,725:malicious stats for type:peexe behavior:"shimeng.dll":
+INFO:2020-09-27 05:16:54,698:malicious stats for type:peexe behavior:"shimeng.dll"p:20-:
+INFO:2020-09-27 05:16:55,967:indicator :shimeng.dll - was found benign because: 
+INFO:2020-09-27 05:16:55,968:less than 98 % of the files found malicious
+INFO:2020-09-27 05:16:55,969:malicious stats for type:peexe behavior:"asxml6.dll":
+INFO:2020-09-27 05:16:57,730:malicious stats for type:peexe behavior:"asxml6.dll"p:20-:
+INFO:2020-09-27 05:16:58,521:indicator :asxml6.dll - was found MALICIOUS because: 
+INFO:2020-09-27 05:16:58,521:number of files found: 298
+INFO:2020-09-27 05:16:58,521:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:16:58,523:malicious stats for type:peexe behavior:"esent.dll":
+INFO:2020-09-27 05:17:00,023:malicious stats for type:peexe behavior:"esent.dll"p:20-:
+INFO:2020-09-27 05:17:01,708:indicator :esent.dll - was found benign because: 
+INFO:2020-09-27 05:17:01,708:less than 98 % of the files found malicious
+INFO:2020-09-27 05:17:01,709:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll":
+INFO:2020-09-27 05:17:05,956:malicious stats for type:peexe behavior:"api-ms-win-core-synch-l1-1-0.dll"p:20-:
+INFO:2020-09-27 05:17:09,949:indicator :api-ms-win-core-synch-l1-1-0.dll - was found benign because: 
+INFO:2020-09-27 05:17:09,949:less than 98 % of the files found malicious
+INFO:2020-09-27 05:17:09,950:malicious stats for type:peexe behavior:"msxml6.dll":
+INFO:2020-09-27 05:17:11,727:malicious stats for type:peexe behavior:"msxml6.dll"p:20-:
+INFO:2020-09-27 05:17:13,495:indicator :msxml6.dll - was found benign because: 
+INFO:2020-09-27 05:17:13,495:less than 98 % of the files found malicious
+INFO:2020-09-27 05:17:13,530:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 05:17:14,743:malicious stats for type:peexe behavior:"7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:17:15,515:indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:15,515:number of files found: 45
+INFO:2020-09-27 05:17:15,515:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:15,516:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz":
+INFO:2020-09-27 05:17:17,274:malicious stats for type:peexe behavior:"C:\Windows\System32\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:17:18,085:indicator :C:\Windows\System32\ellighixoqdjz - was found benign because: 
+INFO:2020-09-27 05:17:18,086:no results on vt from the last 3 months
+INFO:2020-09-27 05:17:18,086:malicious stats for type:peexe behavior:"ellighixoqdjz":
+INFO:2020-09-27 05:17:19,142:malicious stats for type:peexe behavior:"ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:17:19,942:indicator :ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:19,942:number of files found: 298
+INFO:2020-09-27 05:17:19,942:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:19,943:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll":
+INFO:2020-09-27 05:17:23,656:malicious stats for type:peexe behavior:"C:\Windows\System32\shimeng.dll"p:20-:
+INFO:2020-09-27 05:17:25,796:indicator :C:\Windows\System32\shimeng.dll - was found benign because: 
+INFO:2020-09-27 05:17:25,796:less than 98 % of the files found malicious
+INFO:2020-09-27 05:17:25,797:indicator :C:\Windows\System32\shimeng.dll - was found benign
+INFO:2020-09-27 05:17:25,797:malicious stats for type:peexe behavior:"Yd9dH99P":
+INFO:2020-09-27 05:17:27,089:malicious stats for type:peexe behavior:"Yd9dH99P"p:20-:
+INFO:2020-09-27 05:17:28,033:indicator :Yd9dH99P - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:28,035:number of files found: 298
+INFO:2020-09-27 05:17:28,035:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:28,035:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:17:28,035:Level 2 VT check
+INFO:2020-09-27 05:17:28,035:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe":
+INFO:2020-09-27 05:17:29,871:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe"p:20-:
+INFO:2020-09-27 05:17:31,548:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:31,548:number of files found: 298
+INFO:2020-09-27 05:17:31,548:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:31,548:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe ":
+INFO:2020-09-27 05:17:34,384:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\koekuky.exe "p:20-:
+INFO:2020-09-27 05:17:35,400:indicator :.*\\appdata\\local\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:35,400:number of files found: 298
+INFO:2020-09-27 05:17:35,400:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:35,402:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe":
+INFO:2020-09-27 05:17:37,273:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe"p:20-:
+INFO:2020-09-27 05:17:38,034:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:38,034:number of files found: 298
+INFO:2020-09-27 05:17:38,034:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:38,034:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe ":
+INFO:2020-09-27 05:17:39,156:malicious stats for type:peexe behavior:".*\\temp\\koekuky.exe "p:20-:
+INFO:2020-09-27 05:17:39,929:indicator :.*\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:39,929:number of files found: 298
+INFO:2020-09-27 05:17:39,929:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:39,929:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:17:39,930:indicator :shimeng.dll - was found benign
+INFO:2020-09-27 05:17:39,930:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 05:17:40,964:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:17:41,944:indicator :.*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:41,945:number of files found: 45
+INFO:2020-09-27 05:17:41,945:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:41,945:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704":
+INFO:2020-09-27 05:17:43,247:malicious stats for type:peexe behavior:".*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704"p:20-:
+INFO:2020-09-27 05:17:44,091:indicator :.*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:44,092:number of files found: 45
+INFO:2020-09-27 05:17:44,092:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:44,092:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz":
+INFO:2020-09-27 05:17:45,076:malicious stats for type:peexe behavior:".*\\appdata\\local\\temp\\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:17:45,874:indicator :.*\\appdata\\local\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:45,874:number of files found: 298
+INFO:2020-09-27 05:17:45,874:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:17:45,874:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz":
+INFO:2020-09-27 05:17:47,001:malicious stats for type:peexe behavior:".*\\temp\\ellighixoqdjz"p:20-:
+INFO:2020-09-27 05:17:47,750:indicator :.*\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:17:47,750:number of files found: 298
+INFO:2020-09-27 05:17:47,750:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:20:28,457:Start VT check to reduce indicators
+INFO:2020-09-27 05:20:28,459:Level 1 VT check
+INFO:2020-09-27 05:20:28,459:malicious stats for koekuky.exe:
+DEBUG:2020-09-27 05:20:28,459:Using proactor: IocpProactor
+INFO:2020-09-27 05:20:31,384:indicator :koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:20:31,384:number of files found: 298
+INFO:2020-09-27 05:20:31,384:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:20:31,385:malicious stats for C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe :
+INFO:2020-09-27 05:20:35,010:indicator :C:\Users\ADMINI~1\AppData\Local\Temp\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:20:35,010:number of files found: 145
+INFO:2020-09-27 05:20:35,010:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:20:35,011:malicious stats for shimeng.dll:
+INFO:2020-09-27 05:20:39,596:indicator :shimeng.dll - was found BENIGN because: 
+INFO:2020-09-27 05:20:39,596:less than 98 % of the files found malicious
+INFO:2020-09-27 05:20:39,598:malicious stats for asxml6.dll:
+INFO:2020-09-27 05:20:42,149:indicator :asxml6.dll - was found MALICIOUS because: 
+INFO:2020-09-27 05:20:42,149:number of files found: 298
+INFO:2020-09-27 05:20:42,149:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:20:42,149:malicious stats for esent.dll:
+INFO:2020-09-27 05:20:45,198:indicator :esent.dll - was found BENIGN because: 
+INFO:2020-09-27 05:20:45,198:less than 98 % of the files found malicious
+INFO:2020-09-27 05:20:45,199:malicious stats for api-ms-win-core-synch-l1-1-0.dll:
+INFO:2020-09-27 05:20:51,638:indicator :api-ms-win-core-synch-l1-1-0.dll - was found BENIGN because: 
+INFO:2020-09-27 05:20:51,638:less than 98 % of the files found malicious
+INFO:2020-09-27 05:20:51,638:malicious stats for msxml6.dll:
+INFO:2020-09-27 05:20:54,881:indicator :msxml6.dll - was found BENIGN because: 
+INFO:2020-09-27 05:20:54,881:less than 98 % of the files found malicious
+INFO:2020-09-27 05:20:54,882:malicious stats for koekuky.exe:
+INFO:2020-09-27 05:20:54,882:indicator :koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:20:54,882:malicious stats for 7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704:
+INFO:2020-09-27 05:20:56,725:indicator :7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:20:56,725:number of files found: 45
+INFO:2020-09-27 05:20:56,725:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:20:56,726:malicious stats for C:\Windows\System32\ellighixoqdjz:
+INFO:2020-09-27 05:20:58,960:indicator :C:\Windows\System32\ellighixoqdjz - was found BENIGN because: 
+INFO:2020-09-27 05:20:58,960:no results on vt from the last 3 months
+INFO:2020-09-27 05:20:58,960:malicious stats for ellighixoqdjz:
+INFO:2020-09-27 05:21:01,144:indicator :ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:01,144:number of files found: 298
+INFO:2020-09-27 05:21:01,144:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:01,145:malicious stats for C:\Windows\System32\shimeng.dll:
+INFO:2020-09-27 05:21:07,342:indicator :C:\Windows\System32\shimeng.dll - was found BENIGN because: 
+INFO:2020-09-27 05:21:07,342:less than 98 % of the files found malicious
+INFO:2020-09-27 05:21:07,343:malicious stats for koekuky.exe:
+INFO:2020-09-27 05:21:07,343:indicator :koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:07,343:malicious stats for C:\Windows\System32\shimeng.dll:
+INFO:2020-09-27 05:21:07,343:indicator :C:\Windows\System32\shimeng.dll - was found BENIGN, according to previous checks
+INFO:2020-09-27 05:21:07,343:malicious stats for koekuky.exe:
+INFO:2020-09-27 05:21:07,344:indicator :koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:07,344:malicious stats for koekuky.exe:
+INFO:2020-09-27 05:21:07,344:indicator :koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:07,344:malicious stats for Yd9dH99P:
+INFO:2020-09-27 05:21:09,388:indicator :Yd9dH99P - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:09,388:number of files found: 298
+INFO:2020-09-27 05:21:09,388:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:09,389:malicious stats for shimeng.dll:
+INFO:2020-09-27 05:21:09,389:indicator :shimeng.dll - was found BENIGN, according to previous checks
+INFO:2020-09-27 05:21:09,389:malicious stats for asxml6.dll:
+INFO:2020-09-27 05:21:09,389:indicator :asxml6.dll - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:09,389:Level 2 VT check
+INFO:2020-09-27 05:21:09,389:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:12,935:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:12,935:number of files found: 298
+INFO:2020-09-27 05:21:12,937:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:12,937:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe :
+INFO:2020-09-27 05:21:15,356:indicator :.*\\appdata\\local\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:15,356:number of files found: 298
+INFO:2020-09-27 05:21:15,356:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:15,359:malicious stats for .*\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:17,366:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:17,366:number of files found: 298
+INFO:2020-09-27 05:21:17,366:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:17,367:malicious stats for .*\\temp\\koekuky.exe :
+INFO:2020-09-27 05:21:19,735:indicator :.*\\temp\\koekuky.exe  - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:19,735:number of files found: 298
+INFO:2020-09-27 05:21:19,735:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:19,737:malicious stats for shimeng.dll:
+INFO:2020-09-27 05:21:19,737:indicator :shimeng.dll - was found BENIGN, according to previous checks
+INFO:2020-09-27 05:21:19,737:malicious stats for shimeng.dll:
+INFO:2020-09-27 05:21:19,737:indicator :shimeng.dll - was found BENIGN, according to previous checks
+INFO:2020-09-27 05:21:19,737:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:19,737:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:19,737:malicious stats for .*\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:19,737:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:19,737:malicious stats for .*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704:
+INFO:2020-09-27 05:21:22,057:indicator :.*\\appdata\\local\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:22,057:number of files found: 45
+INFO:2020-09-27 05:21:22,057:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:22,057:malicious stats for .*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704:
+INFO:2020-09-27 05:21:24,139:indicator :.*\\temp\\7c8f771daa87cf8f56e2998a8883b4bcea12827ef77c21d66704 - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:24,139:number of files found: 45
+INFO:2020-09-27 05:21:24,139:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:24,139:malicious stats for .*\\appdata\\local\\temp\\ellighixoqdjz:
+INFO:2020-09-27 05:21:26,141:indicator :.*\\appdata\\local\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:26,141:number of files found: 298
+INFO:2020-09-27 05:21:26,141:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:26,142:malicious stats for .*\\temp\\ellighixoqdjz:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\temp\\ellighixoqdjz - was found MALICIOUS because: 
+INFO:2020-09-27 05:21:28,002:number of files found: 298
+INFO:2020-09-27 05:21:28,002:percentage of malicious hits: 100.0%
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\appdata\\local\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\appdata\\local\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-27 05:21:28,002:malicious stats for .*\\temp\\koekuky.exe:
+INFO:2020-09-27 05:21:28,002:indicator :.*\\temp\\koekuky.exe - was found MALICIOUS, according to previous checks
+INFO:2020-09-28 23:40:52,882:Start VT check to reduce indicators
+INFO:2020-09-28 23:40:52,887:Level 1 VT check
+INFO:2020-09-28 23:40:52,887:malicious stats for {path}:
+DEBUG:2020-09-28 23:40:52,887:Using proactor: IocpProactor
+INFO:2020-09-28 23:42:35,985:Start VT check to reduce indicators
+INFO:2020-09-28 23:42:35,990:Level 1 VT check
+INFO:2020-09-28 23:42:35,992:malicious stats for {path}:
+DEBUG:2020-09-28 23:42:36,000:Using proactor: IocpProactor
+INFO:2020-09-28 23:46:51,832:Start VT check to reduce indicators
+INFO:2020-09-28 23:46:51,835:Level 1 VT check
+INFO:2020-09-28 23:46:51,837:malicious stats for path:
+DEBUG:2020-09-28 23:46:51,839:Using proactor: IocpProactor
+INFO:2020-09-28 23:47:08,352:Start VT check to reduce indicators
+INFO:2020-09-28 23:47:08,352:Level 1 VT check
+INFO:2020-09-28 23:47:08,352:malicious stats for path:
+DEBUG:2020-09-28 23:47:08,352:Using proactor: IocpProactor
+INFO:2020-09-28 23:47:10,949:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:47:10,949:less than 98 % of the files found malicious
+INFO:2020-09-28 23:47:10,950:malicious stats for HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\1cb4ac38:
+INFO:2020-09-28 23:47:15,497:indicator :HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\1cb4ac38 - was found MALICIOUS because: 
+INFO:2020-09-28 23:47:15,497:number of files found: 4
+INFO:2020-09-28 23:47:15,498:percentage of malicious hits: 100.0%
+INFO:2020-09-28 23:47:15,498:malicious stats for HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\2d08b1b5:
+INFO:2020-09-28 23:47:22,966:indicator :HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\2d08b1b5 - was found MALICIOUS because: 
+INFO:2020-09-28 23:47:22,966:number of files found: 1
+INFO:2020-09-28 23:47:22,966:percentage of malicious hits: 100.0%
+INFO:2020-09-28 23:47:22,968:Level 2 VT check
+INFO:2020-09-28 23:47:22,968:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-28 23:47:34,132:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:34,132:less than 98 % of the files found malicious
+INFO:2020-09-28 23:47:34,133:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-28 23:47:41,693:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:41,693:less than 98 % of the files found malicious
+INFO:2020-09-28 23:47:41,695:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-28 23:47:47,077:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:47,079:less than 98 % of the files found malicious
+INFO:2020-09-28 23:47:47,079:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-28 23:47:49,528:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:49,528:less than 98 % of the files found malicious
+INFO:2020-09-28 23:47:49,528:malicious stats for .*\\desktop\\en-us\\lazarus.resources.dll:
+INFO:2020-09-28 23:47:53,113:indicator :.*\\desktop\\en-us\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:53,113:no results on vt from the last 3 months
+INFO:2020-09-28 23:47:53,114:malicious stats for .*\\desktop\\en-us\\lazarus.resources.exe:
+INFO:2020-09-28 23:47:55,550:indicator :.*\\desktop\\en-us\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:47:55,550:no results on vt from the last 3 months
+INFO:2020-09-28 23:47:55,551:malicious stats for .*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-28 23:47:57,848:indicator :.*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:47:57,848:no results on vt from the last 3 months
+INFO:2020-09-28 23:47:57,848:malicious stats for .*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-28 23:47:59,902:indicator :.*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:47:59,902:no results on vt from the last 3 months
+INFO:2020-09-28 23:47:59,903:malicious stats for .*\\desktop\\en\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:01,672:indicator :.*\\desktop\\en\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:01,672:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:01,673:malicious stats for .*\\desktop\\en\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:03,803:indicator :.*\\desktop\\en\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:03,803:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:03,803:malicious stats for .*\\desktop\\en\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:05,538:indicator :.*\\desktop\\en\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:05,538:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:05,539:malicious stats for .*\\desktop\\en\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:08,402:indicator :.*\\desktop\\en\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:08,402:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:08,402:malicious stats for .*\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:10,667:indicator :.*\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:10,667:less than 98 % of the files found malicious
+INFO:2020-09-28 23:48:10,669:malicious stats for .*\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:12,913:indicator :.*\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:12,913:less than 98 % of the files found malicious
+INFO:2020-09-28 23:48:12,922:malicious stats for .*\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:15,210:indicator :.*\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:15,210:less than 98 % of the files found malicious
+INFO:2020-09-28 23:48:15,210:malicious stats for .*\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:17,305:indicator :.*\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:17,305:less than 98 % of the files found malicious
+INFO:2020-09-28 23:48:17,306:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:19,473:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:19,473:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:19,473:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:22,076:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:22,076:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:22,076:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-28 23:48:23,905:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-28 23:48:23,905:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:23,906:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-28 23:48:26,270:no results on vt from the last 3 months
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,270:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-28 23:48:26,270:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:48:26,272:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-28 23:48:26,272:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-28 23:51:24,951:Start VT check to reduce indicators
+INFO:2020-09-28 23:51:24,955:Level 1 VT check
+INFO:2020-09-28 23:51:24,957:malicious stats for path:
+DEBUG:2020-09-28 23:51:24,961:Using proactor: IocpProactor
+INFO:2020-09-28 23:51:30,617:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:51:30,617:less than 98 % of the files found malicious
+INFO:2020-09-28 23:52:03,285:Start VT check to reduce indicators
+INFO:2020-09-28 23:52:03,287:Level 1 VT check
+INFO:2020-09-28 23:52:03,288:malicious stats for path:
+DEBUG:2020-09-28 23:52:03,290:Using proactor: IocpProactor
+INFO:2020-09-28 23:52:08,577:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:52:08,577:less than 98 % of the files found malicious
+INFO:2020-09-28 23:57:26,708:Start VT check to reduce indicators
+INFO:2020-09-28 23:57:26,711:Level 1 VT check
+INFO:2020-09-28 23:57:26,711:malicious stats for path:
+DEBUG:2020-09-28 23:57:26,716:Using proactor: IocpProactor
+INFO:2020-09-28 23:57:31,554:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:57:31,554:less than 98 % of the files found malicious
+INFO:2020-09-28 23:57:47,358:malicious stats for HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\1cb4ac38:
+INFO:2020-09-28 23:59:06,864:Start VT check to reduce indicators
+INFO:2020-09-28 23:59:06,866:Level 1 VT check
+INFO:2020-09-28 23:59:06,867:malicious stats for path:
+DEBUG:2020-09-28 23:59:06,870:Using proactor: IocpProactor
+INFO:2020-09-28 23:59:12,056:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:59:12,056:less than 98 % of the files found malicious
+INFO:2020-09-28 23:59:39,643:Start VT check to reduce indicators
+INFO:2020-09-28 23:59:39,644:Level 1 VT check
+INFO:2020-09-28 23:59:39,644:malicious stats for path:
+DEBUG:2020-09-28 23:59:39,644:Using proactor: IocpProactor
+INFO:2020-09-28 23:59:42,145:indicator :path - was found BENIGN because: 
+INFO:2020-09-28 23:59:42,145:less than 98 % of the files found malicious
+INFO:2020-09-28 23:59:42,146:malicious stats for HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\1cb4ac38:
+INFO:2020-09-28 23:59:44,723:indicator :HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\1cb4ac38 - was found MALICIOUS because: 
+INFO:2020-09-28 23:59:44,723:number of files found: 4
+INFO:2020-09-28 23:59:44,740:percentage of malicious hits: 100.0%
+INFO:2020-09-28 23:59:44,742:malicious stats for HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\2d08b1b5:
+INFO:2020-09-28 23:59:46,882:indicator :HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\NativeImagesIndex\v2.0.50727_32\NI\1d0e73eb\2d08b1b5 - was found MALICIOUS because: 
+INFO:2020-09-28 23:59:46,882:number of files found: 1
+INFO:2020-09-28 23:59:46,882:percentage of malicious hits: 100.0%
+INFO:2020-09-28 23:59:46,882:Level 2 VT check
+INFO:2020-09-28 23:59:46,882:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-28 23:59:52,849:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:59:52,849:less than 98 % of the files found malicious
+INFO:2020-09-28 23:59:52,850:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-28 23:59:56,798:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:59:56,798:less than 98 % of the files found malicious
+INFO:2020-09-28 23:59:56,798:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-28 23:59:59,206:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN because: 
+INFO:2020-09-28 23:59:59,206:less than 98 % of the files found malicious
+INFO:2020-09-28 23:59:59,207:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-29 00:00:01,433:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:01,434:less than 98 % of the files found malicious
+INFO:2020-09-29 00:00:01,434:malicious stats for .*\\desktop\\en-us\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:05,569:indicator :.*\\desktop\\en-us\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:05,569:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:05,569:malicious stats for .*\\desktop\\en-us\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:09,009:indicator :.*\\desktop\\en-us\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:09,009:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:09,010:malicious stats for .*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:11,425:indicator :.*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:11,425:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:11,426:malicious stats for .*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:13,658:indicator :.*\\desktop\\en-us\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:13,658:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:13,660:malicious stats for .*\\desktop\\en\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:15,837:indicator :.*\\desktop\\en\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:15,837:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:15,837:malicious stats for .*\\desktop\\en\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:18,091:indicator :.*\\desktop\\en\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:18,092:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:18,093:malicious stats for .*\\desktop\\en\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:20,379:indicator :.*\\desktop\\en\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:20,379:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:20,381:malicious stats for .*\\desktop\\en\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:22,577:indicator :.*\\desktop\\en\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:22,577:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:22,577:malicious stats for .*\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:24,897:indicator :.*\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:24,897:less than 98 % of the files found malicious
+INFO:2020-09-29 00:00:24,899:malicious stats for .*\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:27,889:indicator :.*\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:27,889:less than 98 % of the files found malicious
+INFO:2020-09-29 00:00:27,890:malicious stats for .*\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:31,800:indicator :.*\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:31,800:less than 98 % of the files found malicious
+INFO:2020-09-29 00:00:31,801:malicious stats for .*\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:35,082:indicator :.*\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:35,082:less than 98 % of the files found malicious
+INFO:2020-09-29 00:00:35,083:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:37,704:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:37,705:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:37,705:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:39,729:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:39,729:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:39,729:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.dll:
+INFO:2020-09-29 00:00:41,768:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.dll - was found BENIGN because: 
+INFO:2020-09-29 00:00:41,768:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:41,768:malicious stats for .*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.exe:
+INFO:2020-09-29 00:00:43,810:indicator :.*\\users\\administrator\\desktop\\en\\lazarus.resources\\lazarus.resources.exe - was found BENIGN because: 
+INFO:2020-09-29 00:00:43,811:no results on vt from the last 3 months
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-29 00:00:43,811:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-29 00:00:43,811:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-29 00:00:43,811:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-29 00:00:43,811:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\freebl3.dll:
+INFO:2020-09-29 00:00:43,811:indicator :.*\\program files (x86)\\mozilla firefox\\freebl3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,811:malicious stats for .*\\program files (x86)\\mozilla firefox\\nss3.dll:
+INFO:2020-09-29 00:00:43,812:indicator :.*\\program files (x86)\\mozilla firefox\\nss3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,812:malicious stats for .*\\program files (x86)\\mozilla firefox\\nssdbm3.dll:
+INFO:2020-09-29 00:00:43,812:indicator :.*\\program files (x86)\\mozilla firefox\\nssdbm3.dll - was found BENIGN, according to previous checks
+INFO:2020-09-29 00:00:43,812:malicious stats for .*\\program files (x86)\\mozilla firefox\\softokn3.dll:
+INFO:2020-09-29 00:00:43,812:indicator :.*\\program files (x86)\\mozilla firefox\\softokn3.dll - was found BENIGN, according to previous checks
